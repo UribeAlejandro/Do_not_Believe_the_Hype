@@ -1,1 +1,11 @@
-# dont_believe_the_hype
+# Don't Believe the Hype
+
+## How to run locally?
+```commandline
+sudo apt-get update
+```
+
+## How to run using docker?
+```commandline
+
+```
