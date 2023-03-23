@@ -1,0 +1,7 @@
+swifter
+numpy
+pandas
+lyricsgenius
+flask
+dash
+jupyter

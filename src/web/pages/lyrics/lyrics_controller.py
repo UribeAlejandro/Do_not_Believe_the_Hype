@@ -1,5 +1,5 @@
 import torch
-from app import app
+from src.web.app import app
 import dash_bootstrap_components as dbc
 from dash.dependencies import Input, Output, State
 from lyrics_view import tokenizer, device, model
